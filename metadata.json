@@ -1,0 +1,6 @@
+{
+  "name": "AS Strzała - Fachowiec 24/7",
+  "description": "Profesjonalny landing page firmy AS Strzała - złota rączka, przeprowadzki, naprawy, spawalnictwo, Siedlce i cała Polska.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
